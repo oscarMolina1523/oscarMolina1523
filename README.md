@@ -12,6 +12,23 @@
 - 🧑‍🏫 Frontend , Backend and FullStack
 <br>
 
+## Skills
+![GitHub followers](https://img.shields.io/github/followers/oscarMolina1523)
+
+![Static Badge](https://img.shields.io/badge/javascript-yellow?logo=javaScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/typescript-blue?logo=typeScript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Dart-%230175C2?logo=Dart&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C%23-purple?logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Microsoft%20SQLServer-darkgreen)
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=MongoDB&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Firebase-%23DD2C00?logo=Firebase&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Angular-%230F0F11?logo=Angular&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter&logoColor=white)
+<br>
+
 ## Mis proyectos
 
 <br>
@@ -49,7 +66,7 @@
 
 <p align="center">
 <a href="https://github.com/oscarMolina1523">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarMolina1523&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarMolina1523&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
