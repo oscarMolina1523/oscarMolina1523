@@ -6,6 +6,7 @@
 </div>
 
 ## Sobre mi
+He tenido la oportunidad de participar en la creación de sitios web desde cero, lo que me ha permitido desarrollar una fuerte capacidad para adaptarme a diversas necesidades y contextos. Mi enfoque siempre ha sido cumplir con los estándares y metodologías más efectivas para asegurar el éxito de cada proyecto.
 
 - ⭐ Github Star ⭐ 
 - 📲 Software developer
