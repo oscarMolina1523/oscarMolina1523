@@ -16,6 +16,7 @@ He tenido la oportunidad de participar en la creación de sitios web desde cero,
 ## Skills
 ![GitHub followers](https://img.shields.io/github/followers/oscarMolina1523)
 ![GitHub User's stars](https://img.shields.io/github/stars/oscarMolina1523)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/OscarMolin14474)
 
 ![Static Badge](https://img.shields.io/badge/javascript-yellow?logo=javaScript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/typescript-blue?logo=typeScript&logoColor=white)
