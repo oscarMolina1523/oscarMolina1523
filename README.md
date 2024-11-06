@@ -40,7 +40,7 @@ He tenido la oportunidad de participar en la creación de sitios web desde cero,
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Plataforma de Ecommerce con carrito de compras</h3>
+<h3 align="center">Ecommerce con carrito de compras</h3>
 <div align="center">
 <a href="https://e-commerce-oscar.vercel.app/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/libreriaestudiante-76afb.appspot.com/o/Captura%20de%20pantalla%202024-10-28%20150324.png?alt=media&token=5624e488-3df0-46de-8934-99c431b0028b" width="400" alt="Ecommerce plataform"></a>
 <p>
