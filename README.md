@@ -46,10 +46,17 @@ He tenido la oportunidad de participar en la creación de sitios web desde cero,
 <p>
 </p>
 <p>Implementa un sistema de productos, un carrito de <strong>compras , proceso de pago y páginas de usuario para revisar órdenes pasadas.</strong></p>
-</div>
-                                                                                      
+</div>                                                                                   
 </td>
-
+</table>                                                                                 
+</div>
+<br>  
+<div align="center">
+<table>
+<tr>
+<div align="center">
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">Portfolio Profesional</h3>
 <div align="center">                                       
@@ -58,7 +65,8 @@ He tenido la oportunidad de participar en la creación de sitios web desde cero,
 <p>
 </p>
 </p>Colección de trabajos y proyectos que muestran las <strong>habilidades y experiencias</strong> en un campo específico. Permite demostrar la <strong>calidad del trabajo</strong> y reflejar el crecimiento profesional.</p>
-</div>                                                             
+</div>    
+</td>
 </table>                                                                                 
 </div>
 <br>  
