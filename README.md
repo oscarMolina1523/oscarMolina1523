@@ -6,7 +6,11 @@
 </div>
 
 ## Sobre mi
-He tenido la oportunidad de participar en la creación de sitios web desde cero, lo que me ha permitido desarrollar una fuerte capacidad para adaptarme a diversas necesidades y contextos. Mi enfoque siempre ha sido cumplir con los estándares y metodologías más efectivas para asegurar el éxito de cada proyecto.
+Con experiencia comprobada en el desarrollo de sitios web desde la planificación inicial hasta la implementación final, ha demostrado una destacada capacidad para adaptarse a distintos contextos y requerimientos, siempre garantizando soluciones alineadas con estándares y metodologías reconocidas por su efectividad.
+
+Cuenta con competencias tanto en desarrollo backend como frontend, lo que le permite abordar proyectos con una perspectiva integral, asegurando la coherencia y funcionalidad en cada etapa del proceso. Su enfoque en el aprendizaje continuo y su interés por la innovación tecnológica lo posicionan como un profesional en constante evolución.
+
+Se caracteriza por su proactividad, creatividad y capacidad para colaborar eficazmente en equipos multidisciplinarios, contribuyendo al logro de resultados excepcionales. Su compromiso con la excelencia y el deseo de aportar valor lo convierten en un activo valioso para cualquier organización que busque innovación y calidad en el desarrollo de soluciones digitales.
 
 - ⭐ Github Star ⭐ 
 - 📲 Software developer
