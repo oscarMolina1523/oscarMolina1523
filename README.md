@@ -88,9 +88,27 @@ Se caracteriza por su proactividad, creatividad y capacidad para colaborar efica
 </td>                                                            
 </table>                                                                                 
 </div>
-<br>                                                                                 
+<br>   
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Blog de Tecnologias</h3>
+<div align="center">
+<a href="https://blog-sooty-eta-54.vercel.app/home" width="400" alt="Ecommerce plataform">
+  <img src="https://firebasestorage.googleapis.com/v0/b/files-codenica.appspot.com/o/blogProject.png?alt=media&token=917487ae-380a-4496-b4ed-822ccf8f1e96" width="400" alt="Blog Landingpage">
+</a>
+<p>
+</p>
+<p>Explicaciones claras y concisas de conceptos complejos. Aprende todo lo que necesitas saber sobre tecnología sin tecnicismos.</p>
+</div>                                                                                  
+</td>                                                            
+</table>                                                                                 
+</div>
+<br>    
 </div>
 <br>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
