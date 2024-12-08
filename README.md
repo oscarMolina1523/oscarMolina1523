@@ -44,12 +44,12 @@ Se caracteriza por su proactividad, creatividad y capacidad para colaborar efica
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ecommerce con carrito de compras</h3>
+<h3 align="center">Ecommerce de prendas de vestir</h3>
 <div align="center">
-<a href="https://e-commerce-oscar.vercel.app/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/libreriaestudiante-76afb.appspot.com/o/Captura%20de%20pantalla%202024-10-28%20150324.png?alt=media&token=5624e488-3df0-46de-8934-99c431b0028b" width="400" alt="Ecommerce plataform"></a>
+<a href="https://item-store.vercel.app/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/files-codenica.appspot.com/o/item-store.png?alt=media&token=2f40cdeb-4c31-459b-af0c-c7bc77b362e7" width="400" alt="Ecommerce plataform"></a>
 <p>
 </p>
-<p>Implementa un sistema de productos, un carrito de <strong>compras , proceso de pago y páginas de usuario para revisar órdenes pasadas.</strong></p>
+<p>Implementa un sistema de productos, autenticacion por <strong>roles , detalles de productos, lista de deseos y administracion de productos.</strong></p>
 </div>                                                                                   
 </td>
 </table>                                                                                 
