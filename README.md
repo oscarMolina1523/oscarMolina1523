@@ -46,7 +46,7 @@ Se caracteriza por su proactividad, creatividad y capacidad para colaborar efica
 <td width="50%">
 <h3 align="center">Ecommerce de prendas de vestir</h3>
 <div align="center">
-<a href="https://item-store.vercel.app/home" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/files-codenica.appspot.com/o/item-store.png?alt=media&token=2f40cdeb-4c31-459b-af0c-c7bc77b362e7" width="400" alt="Ecommerce plataform"></a>
+<a href="https://item-store.vercel.app/splash" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/files-codenica.appspot.com/o/item-store.png?alt=media&token=2f40cdeb-4c31-459b-af0c-c7bc77b362e7" width="400" alt="Ecommerce plataform"></a>
 <p>
 </p>
 <p>Implementa un sistema de productos, autenticacion por <strong>roles , detalles de productos, lista de deseos y administracion de productos.</strong></p>
