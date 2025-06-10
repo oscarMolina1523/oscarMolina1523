@@ -64,7 +64,7 @@ Se caracteriza por su proactividad, creatividad y capacidad para colaborar efica
 <td width="50%">
 <h3 align="center">Portfolio Profesional</h3>
 <div align="center">                                       
-<a href="https://oscar-molina-git-master-oscarmolina1523s-projects.vercel.app/about" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/libreriaestudiante-76afb.appspot.com/o/Captura%20de%20pantalla%202024-10-28%20151507.png?alt=media&token=320407c9-ca19-4486-84dd-94f0f7d772ee" width="400" alt="portfolio-profesional"></a>
+<a href="https://oscar-molina.vercel.app" target="_blank"><img src="https://i.ibb.co/JF72D5y2/banner.webp" width="400" alt="portfolio-profesional"></a>
 <br>
 <p>
 </p>
