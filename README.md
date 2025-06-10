@@ -78,12 +78,12 @@ Se caracteriza por su proactividad, creatividad y capacidad para colaborar efica
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sitio Web con verificacion de ingredientes de productos</h3>
+<h3 align="center">Ecommerce Avanzado</h3>
 <div align="center">
-<a href="https://project-medical-git-master-oscarmolina1523s-projects.vercel.app/" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/libreriaestudiante-76afb.appspot.com/o/Home-ProjectMedical.png?alt=media&token=a83e66c6-4e2e-496d-a14a-9c52ec0bb6d9" width="400" alt="Ecommerce plataform"></a>
+<a href="https://variedadestaty.vercel.app" target="_blank"><img src="https://i.ibb.co/nqNxQjN6/logo.png" width="400" alt="Ecommerce plataform"></a>
 <p>
 </p>
-<p>Cree un sistema de verificacion de ingredientes de productos, Escanea los ingredientes de tus productos y verifica si son seguros para tu salud.</p>
+<p>Ecommerce avanzado, clasificacion de categorias de productos, detalles de productos, y administrador de productos, todo integrado.</p>
 </div>                                                                                  
 </td>                                                            
 </table>                                                                                 
