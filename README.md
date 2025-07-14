@@ -71,7 +71,7 @@
 
 ###
 
-<p align="left">Plataforma web basada en roles de gestión de contenido<br>Plataforma de administracion de contenido con funcionalidades avanzadas para club de futbol.<br><br>Desarrollo de una aplicación web para la gestión de contenido de un club de fútbol, incluyendo funcionalidades como la creación y edición de artículos, gestión de usuarios y estadísticas del equipo. La aplicación está diseñada para ser intuitiva y fácil de usar, con un enfoque en la experiencia del usuario.</p>
+<p align="left">Plataforma web basada en roles de gestión de contenido<br>Plataforma de administracion de contenido con funcionalidades avanzadas para club de futbol.<br><br>Desarrollo de una aplicación web para la gestión de contenido de un club de fútbol, incluyendo funcionalidades como la creación y edición de artículos, gestión de usuarios y estadísticas del equipo. La aplicación está diseñada para ser intuitiva y fácil de usar, con un enfoque en la experiencia del usuario.<br><br>link: https://www.xilotepeltfc.com</p>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<p align="left">E-commerce Avanzado.<br>Plataforma de comercio electrónico con interfaz moderna y sistema de pagos integrado.<br><br>Implementación completa de un sistema de comercio electrónico con catálogo de productos, carrito de compras, pasarela de pagos y gestión de pedidos. Diseño responsive optimizado para móviles y desktop con un enfoque en la experiencia de usuario.</p>
+<p align="left">E-commerce Avanzado.<br>Plataforma de comercio electrónico con interfaz moderna y sistema de pagos integrado.<br><br>Implementación completa de un sistema de comercio electrónico con catálogo de productos, carrito de compras, pasarela de pagos y gestión de pedidos. Diseño responsive optimizado para móviles y desktop con un enfoque en la experiencia de usuario.<br><br>link: https://variedadestaty.vercel.app/</p>
 
 ###
 
