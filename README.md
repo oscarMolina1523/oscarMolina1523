@@ -1,114 +1,121 @@
-<div align="center">
-<h1 align="center">Hola, soy <a href="https://oscar-molina-git-master-oscarmolina1523s-projects.vercel.app/about">Oscar Molina</a> 👋</h1>
+<h1 align="left">Hola👋 Soy Oscar Molina</h1>
+
+###
+
+<p align="left">Experto en desarrollo web, responsivo y minimalista, conocimiento avanzado en múltiples lenguajes backend, incluyendo tecnologías legacy, amplia experiencia en metodologías ágiles, liderazgo de equipos multidisciplinarios, y colaboraciones nacionales, habilidades sobresalientes en resolución de problemas.</p>
+
+###
+
+<p align="left">✨ Frontend<br>📚 Backend<br>🎯 SEO<br>🎲 Web optimization</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/oscar-molina-916195309/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
-<div align="center" items="center"> 
-<img heigth="30%" width="100%" src="https://firebasestorage.googleapis.com/v0/b/libreriaestudiante-76afb.appspot.com/o/Bzner_oscar.jpg?alt=media&token=55e2837a-ba0e-47e9-a987-da1a8f872da0"/>
+
+###
+
+<h2 align="left">Experiencia con:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
-## Sobre mi
-Con experiencia comprobada en el desarrollo de sitios web desde la planificación inicial hasta la implementación final, ha demostrado una destacada capacidad para adaptarse a distintos contextos y requerimientos, siempre garantizando soluciones alineadas con estándares y metodologías reconocidas por su efectividad.
+###
 
-Cuenta con competencias tanto en desarrollo backend como frontend, lo que le permite abordar proyectos con una perspectiva integral, asegurando la coherencia y funcionalidad en cada etapa del proceso. Su enfoque en el aprendizaje continuo y su interés por la innovación tecnológica lo posicionan como un profesional en constante evolución.
+<h2 align="left">Proyectos</h2>
 
-Se caracteriza por su proactividad, creatividad y capacidad para colaborar eficazmente en equipos multidisciplinarios, contribuyendo al logro de resultados excepcionales. Su compromiso con la excelencia y el deseo de aportar valor lo convierten en un activo valioso para cualquier organización que busque innovación y calidad en el desarrollo de soluciones digitales.
-
-- ⭐ Github Star ⭐ 
-- 📲 Software developer
-- 🧑‍🏫 Frontend , Backend and FullStack
-<br>
-
-## Skills
-![GitHub followers](https://img.shields.io/github/followers/oscarMolina1523)
-![GitHub User's stars](https://img.shields.io/github/stars/oscarMolina1523)
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/OscarMolin14474)
-
-![Static Badge](https://img.shields.io/badge/javascript-yellow?logo=javaScript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/typescript-blue?logo=typeScript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Dart-%230175C2?logo=Dart&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C%23-purple?logo=C&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Docker-%232496ED?logo=Docker&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Microsoft%20SQLServer-darkgreen)
-![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=MongoDB&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Firebase-%23DD2C00?logo=Firebase&logoColor=white)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Vue.js-%234FC08D?logo=Vue.js&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Angular-%230F0F11?logo=Angular&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Flutter-%2302569B?logo=Flutter&logoColor=white)
-<br>
-
-## Mis proyectos
-
-<br>
+###
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Software Web</h3>
-<div align="center">
-<a href="https://www.nicapages.site" target="_blank"><img src="https://i.ibb.co/93kKwh5R/NicaPage.webp" width="400" alt="Nicapages"></a>
-<p>
-</p>
-<p>Desarrollo de software a la medida, webs interactivas y más, creamos soluciones tecnologicas.</strong></p>
-</div>                                                                                   
-</td>
-</table>                                                                                 
+  <img height="330" src="https://i.ibb.co/CXzMxMP/xilo-banner.webp"  />
 </div>
-<br>  
-<div align="center">
-<table>
-<tr>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Portfolio Profesional</h3>
-<div align="center">                                       
-<a href="https://oscar-molina.vercel.app" target="_blank"><img src="https://i.ibb.co/JF72D5y2/banner.webp" width="400" alt="portfolio-profesional"></a>
-<br>
-<p>
-</p>
-</p>Colección de trabajos y proyectos que muestran las <strong>habilidades y experiencias</strong> en un campo específico. Permite demostrar la <strong>calidad del trabajo</strong> y reflejar el crecimiento profesional.</p>
-</div>    
-</td>
-</table>                                                                                 
-</div>
-<br>  
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Ecommerce Avanzado</h3>
-<div align="center">
-<a href="https://variedadestaty.vercel.app" target="_blank"><img src="https://i.ibb.co/nqNxQjN6/logo.png" width="400" alt="Ecommerce plataform"></a>
-<p>
-</p>
-<p>Ecommerce avanzado, clasificacion de categorias de productos, detalles de productos, y administrador de productos, todo integrado.</p>
-</div>                                                                                  
-</td>                                                            
-</table>                                                                                 
-</div>
-<br>   
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Blog de Tecnologias</h3>
-<div align="center">
-<a href="https://blog-sooty-eta-54.vercel.app/home" width="400" alt="Ecommerce plataform">
-  <img src="https://firebasestorage.googleapis.com/v0/b/files-codenica.appspot.com/o/blogProject.png?alt=media&token=917487ae-380a-4496-b4ed-822ccf8f1e96" width="400" alt="Blog Landingpage">
-</a>
-<p>
-</p>
-<p>Explicaciones claras y concisas de conceptos complejos. Aprende todo lo que necesitas saber sobre tecnología sin tecnicismos.</p>
-</div>                                                                                  
-</td>                                                            
-</table>                                                                                 
-</div>
-<br>    
-</div>
-<br>
 
+###
+
+<p align="left">Plataforma web basada en roles de gestión de contenido<br>Plataforma de administracion de contenido con funcionalidades avanzadas para club de futbol.<br><br>Desarrollo de una aplicación web para la gestión de contenido de un club de fútbol, incluyendo funcionalidades como la creación y edición de artículos, gestión de usuarios y estadísticas del equipo. La aplicación está diseñada para ser intuitiva y fácil de usar, con un enfoque en la experiencia del usuario.</p>
+
+###
+
+<div align="center">
+  <img height="330" src="https://i.ibb.co/hJWSKQPz/edu-Incluye.webp"  />
+</div>
+
+###
+
+<p align="left">App Inclusiva para el aprendizaje de lenguaje de señas.<br>Creación de una plataforma dedicada a ofrecer servicios aprendizaje personalizados.<br><br>Nuestro objetivo fue diseñar un sitio intuitivo y atractivo para aprender a comunicarse con señas, textos a audios y señas y más...</p>
+
+###
+
+<div align="center">
+  <img height="330" src="https://i.ibb.co/vCfGxjGD/variedades-taty.webp"  />
+</div>
+
+###
+
+<p align="left">E-commerce Avanzado.<br>Plataforma de comercio electrónico con interfaz moderna y sistema de pagos integrado.<br><br>Implementación completa de un sistema de comercio electrónico con catálogo de productos, carrito de compras, pasarela de pagos y gestión de pedidos. Diseño responsive optimizado para móviles y desktop con un enfoque en la experiencia de usuario.</p>
+
+###
+
+<div align="center">
+  <img height="330" src="https://i.ibb.co/G4rhSqDD/asistent.webp"  />
+</div>
+
+###
+
+<p align="left">App Administrativa para control de asistencia de Estudiantes en tiempo real.<br>Creación de una app basada en roles administrativos, para control de asistencia en tiempo real.<br><br>La aplicación permite saber la asistencia de cada materia, alumno y maestro, ademas de un dashbord analitico para el procesamiento de la información.</p>
+
+###
+
+<div align="center">
+  <img height="330" src="https://i.ibb.co/KxKjkjqW/portfolio.png"  />
+</div>
+
+###
+
+<p align="left">Portafolio profesional, actualizado con mas proyectos , información relevante y tendencias tecnologicas<br><br>link: https://oscar-molina.vercel.app</p>
+
+###
+
+<h2 align="left">Github Analytics</h2>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
