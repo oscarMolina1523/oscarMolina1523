@@ -114,7 +114,7 @@ Desarrollo de una aplicación móvil para la protección contra reacciones alér
 
 ###
 
-<p align="left">App Administrativa para control de asistencia de Estudiantes en tiempo real.<br>Creación de una app basada en roles administrativos, para control de asistencia en tiempo real.<br><br>La aplicación permite saber la asistencia de cada materia, alumno y maestro, ademas de un dashbord analitico para el procesamiento de la información.</p>
+<p align="left">Nuestra App Administrativa para Control de Asistencia en Tiempo Real es una solución digital de vanguardia que revoluciona la gestión educativa. Va más allá del simple registro de asistencia, proporcionando una plataforma basada en roles que permite a directivos y maestros monitorear en tiempo real la presencia de estudiantes en cada clase y materia. Con un dashboard analítico integrado, la aplicación procesa esta información de manera inteligente, ofreciendo una visión profunda y procesable que facilita la toma de decisiones informadas para mejorar el rendimiento académico y la eficiencia administrativa. Es la herramienta definitiva para modernizar la gestión escolar y asegurar un control preciso y transparente.</p><br><br>Para hacer uso de la app debe tener instalada en su movil la app de EXPO que se encuentra en la Play Store y escanear el QR de la imagen</p>
 
 ###
 
