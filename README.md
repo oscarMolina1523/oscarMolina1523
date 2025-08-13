@@ -64,6 +64,19 @@
 <h2 align="left">Proyectos</h2>
 
 ###
+###
+
+<div align="center">
+  <img height="330" src="https://i.ibb.co/pr1d03Sg/medical.png"  />
+</div>
+
+###
+
+<p align="left">Aplicación de Escaneo y Análisis de Productos para la Piel.
+
+Desarrollo de una aplicación móvil para la protección contra reacciones alérgicas. La plataforma permite a los usuarios crear un perfil médico detallado con sus alergias. Mediante el escaneo de códigos de barras, la aplicación analiza los ingredientes del producto y los compara con el perfil del usuario para alertar sobre posibles riesgos. El objetivo es ofrecer una herramienta intuitiva y segura que brinde tranquilidad al elegir productos de uso tópico.<br><br>link: https://project-medical-blond.vercel.app</p>
+
+###
 
 <div align="center">
   <img height="330" src="https://i.ibb.co/CXzMxMP/xilo-banner.webp"  />
