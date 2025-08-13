@@ -84,7 +84,7 @@ Desarrollo de una aplicación móvil para la protección contra reacciones alér
 
 ###
 
-<p align="left">Plataforma web basada en roles de gestión de contenido<br>Plataforma de administracion de contenido con funcionalidades avanzadas para club de futbol.<br><br>Desarrollo de una aplicación web para la gestión de contenido de un club de fútbol, incluyendo funcionalidades como la creación y edición de artículos, gestión de usuarios y estadísticas del equipo. La aplicación está diseñada para ser intuitiva y fácil de usar, con un enfoque en la experiencia del usuario.<br><br>link: https://www.xilotepeltfc.com</p>
+<p align="left">Nuestra plataforma web de gestión de contenido no es una simple página más, sino una solución digital de vanguardia diseñada específicamente para clubes de fútbol. Aborda el caos de la administración de contenido con funcionalidades avanzadas como la creación intuitiva de artículos, la gestión de usuarios basada en roles para una seguridad impecable, y herramientas de estadísticas para el análisis de rendimiento del equipo. Al ofrecer una experiencia de usuario fluida y enfocada en la eficiencia, transformamos la forma en que el club gestiona su información, permitiéndole profesionalizar su comunicación y tomar decisiones más informadas, elevando así su marca a un nuevo nivel.<br><br>link: https://www.xilotepeltfc.com</p>
 
 ###
 
