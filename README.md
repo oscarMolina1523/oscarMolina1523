@@ -104,7 +104,7 @@ Desarrollo de una aplicación móvil para la protección contra reacciones alér
 
 ###
 
-<p align="left">E-commerce Avanzado.<br>Plataforma de comercio electrónico con interfaz moderna y sistema de pagos integrado.<br><br>Implementación completa de un sistema de comercio electrónico con catálogo de productos, carrito de compras, pasarela de pagos y gestión de pedidos. Diseño responsive optimizado para móviles y desktop con un enfoque en la experiencia de usuario.<br><br>link: https://variedadestaty.vercel.app/</p>
+<p align="left">Nuestra Plataforma de E-commerce Avanzada no es solo una tienda en línea; es una solución digital integral diseñada para impulsar tu negocio. Con una interfaz moderna y un diseño responsivo optimizado para cualquier dispositivo, la plataforma asegura una experiencia de usuario impecable. Desde un catálogo de productos intuitivo hasta un carrito de compras eficiente y una pasarela de pagos integrada, automatizamos cada paso del proceso de venta. Esto permite que los negocios se concentren en lo que realmente importa: crecer y conectar con sus clientes, mientras nosotros nos encargamos de la complejidad técnica, garantizando transacciones seguras y una gestión de pedidos sin fisuras.<br><br>link: https://variedadestaty.vercel.app/</p>
 
 ###
 
