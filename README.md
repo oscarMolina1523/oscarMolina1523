@@ -94,7 +94,7 @@ Desarrollo de una aplicación móvil para la protección contra reacciones alér
 
 ###
 
-<p align="left">App Inclusiva para el aprendizaje de lenguaje de señas.<br>Creación de una plataforma dedicada a ofrecer servicios aprendizaje personalizados.<br><br>Nuestro objetivo fue diseñar un sitio intuitivo y atractivo para aprender a comunicarse con señas, textos a audios y señas y más...</p>
+<p align="left">Nuestra App Inclusiva de Lenguaje de Señas es una plataforma digital de vanguardia que transforma el aprendizaje y la comunicación. Más que una simple herramienta, es una solución integral diseñada para promover el acceso al lenguaje de señas, ofreciendo servicios de aprendizaje personalizados, herramientas de conversión de texto a audio y señas, y una interfaz intuitiva y atractiva. Con un enfoque en la inclusión y la experiencia del usuario, nuestra aplicación derriba barreras de comunicación, empoderando a personas y comunidades para que se conecten de manera más profunda y significativa.<br><br>Para hacer uso de la app debe tener instalada en su movil la app de EXPO que se encuentra en la Play Store y escanear el QR de la imagen</p>
 
 ###
 
