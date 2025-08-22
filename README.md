@@ -5,6 +5,25 @@
 <p align="left">Experto en desarrollo web, responsivo y minimalista, conocimiento avanzado en múltiples lenguajes backend, incluyendo tecnologías legacy, amplia experiencia en metodologías ágiles, liderazgo de equipos multidisciplinarios, y colaboraciones nacionales, habilidades sobresalientes en resolución de problemas.</p>
 
 ###
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=oscarMolina1523&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=oscarMolina1523&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h2 align="left">Github Analytics</h2>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/oscarMolina1523">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarMolina1523&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarMolina1523&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <p align="left">✨ Frontend<br>📚 Backend<br>🎯 SEO<br>🎲 Web optimization</p>
 
@@ -128,13 +147,4 @@ Desarrollo de una aplicación móvil para la protección contra reacciones alér
 
 ###
 
-<h2 align="left">Github Analytics</h2>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/oscarMolina1523">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oscarMolina1523&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oscarMolina1523&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
