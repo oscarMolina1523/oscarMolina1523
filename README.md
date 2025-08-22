@@ -25,7 +25,6 @@
 </a>
 </p>
 
-<p align="left">✨ Frontend<br>📚 Backend<br>🎯 SEO<br>🎲 Web optimization</p>
 
 ###
 
