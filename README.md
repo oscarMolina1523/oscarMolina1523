@@ -99,12 +99,12 @@ Software administrativo para el control de peticiones entre sucursales , permite
 ###
 
 <div align="center">
-  <img height="330" src="https://i.ibb.co/CXzMxMP/xilo-banner.webp"  />
+  <img height="330" src="https://i.ibb.co/LzPfrcfc/avicon.png"  />
 </div>
 
 ###
 
-<p align="left">Nuestra plataforma web de gestión de contenido no es una simple página más, sino una solución digital de vanguardia diseñada específicamente para clubes de fútbol. Aborda el caos de la administración de contenido con funcionalidades avanzadas como la creación intuitiva de artículos, la gestión de usuarios basada en roles para una seguridad impecable, y herramientas de estadísticas para el análisis de rendimiento del equipo. Al ofrecer una experiencia de usuario fluida y enfocada en la eficiencia, transformamos la forma en que el club gestiona su información, permitiéndole profesionalizar su comunicación y tomar decisiones más informadas, elevando así su marca a un nuevo nivel.<br><br>link: https://www.xilotepeltfc.com</p>
+<p align="left">Software de control de aves de corral, permite gestionar todo el ciclo de vida de las aves, por lotes, fechas de ingreso, pesos, estado de salud y notificaciones, garantiza la integridad de los datos y comunicación en tiempo real, además cuenta con un apartado de reportes, con posibilidad de descarga en diferentes formatos, periodos de fechas, y dashboards analiticos que facilitan la lectura y toma de decisiones.<br><br>link: https://avicon.nicapages.site</p>
 
 ###
 
