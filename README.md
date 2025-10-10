@@ -103,8 +103,8 @@ Software administrativo para el control de peticiones entre sucursales , permite
 </div>
 
 ###
-
-<p align="left">Software de control de aves de corral, permite gestionar todo el ciclo de vida de las aves, por lotes, fechas de ingreso, pesos, estado de salud y notificaciones, garantiza la integridad de los datos y comunicación en tiempo real, además cuenta con un apartado de reportes, con posibilidad de descarga en diferentes formatos, periodos de fechas, y dashboards analiticos que facilitan la lectura y toma de decisiones.<br><br>link: https://avicon.nicapages.site</p>
+<h3>Software de control de aves de corral</h3>
+<p align="left">Permite gestionar todo el ciclo de vida de las aves, por lotes, fechas de ingreso, pesos, estado de salud y notificaciones, garantiza la integridad de los datos y comunicación en tiempo real, además cuenta con un apartado de reportes, con posibilidad de descarga en diferentes formatos, periodos de fechas, y dashboards analiticos que facilitan la lectura y toma de decisiones.<br><br>link: https://avicon.nicapages.site</p>
 
 ###
 
