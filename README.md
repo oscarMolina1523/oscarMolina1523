@@ -80,6 +80,18 @@
 <h2 align="left">Proyectos</h2>
 
 ###
+
+<div align="center">
+  <img height="500" src="https://i.ibb.co/67sb0tSM/ddd-cli.png" >
+</div>
+
+<h3 align="left">DDD Backend CLI.</h3>
+
+CLI para generar proyectos backend siguiendo la arquitectura Domain-Driven Design (DDD) de forma rápida y estructurada.
+elimina la fricción inicial del desarrollo de software al automatizar la compleja configuración de la Arquitectura Orientada al Dominio (DDD), transformando horas de estructuración manual en segundos de ejecución automática.
+
+<br>link: https://www.npmjs.com/package/ddd-backend-cli</p>
+
 ###
 
 <div align="center">
