@@ -4,16 +4,6 @@
 
 <p align="left">Experto en desarrollo web, responsivo y minimalista, conocimiento avanzado en múltiples lenguajes backend, incluyendo tecnologías legacy, amplia experiencia en metodologías ágiles, liderazgo de equipos multidisciplinarios, y colaboraciones nacionales, habilidades sobresalientes en resolución de problemas.</p>
 
-###
-<div align="left">
-  <a href="https://www.linkedin.com/in/oscar-molina-916195309/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oscarMolina1523&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
