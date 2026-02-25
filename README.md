@@ -80,7 +80,7 @@
 CLI para generar proyectos backend siguiendo la arquitectura **Domain-Driven Design (DDD)** de forma rápida y estructurada, con conexión automatizada a **bases de datos SQL.**
 elimina la fricción inicial del desarrollo de software al** automatizar la compleja configuración de la Arquitectura Orientada al Dominio (DDD)**, transformando horas de estructuración manual en **segundos de ejecución automática**, crea de forma automatica tablas en la base de datos, configura las conexiones de llamadas a bases de datos e implementa patrones de diseños complejos como Builder.
 
-<br>Link: https://www.npmjs.com/package/ddd-backend-cli</p>
+<br>Npm Link Package: https://www.npmjs.com/package/ddd-backend-cli</p>
 <br>Video Demo: https://youtu.be/LTDUoJqOX6g?si=Ikre5wtEUuEIyKHL
 
 ###
