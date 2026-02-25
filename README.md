@@ -83,6 +83,8 @@ elimina la fricción inicial del desarrollo de software al** automatizar la comp
 Npm Link Package: https://www.npmjs.com/package/ddd-backend-cli</p>
 Video Demo: https://youtu.be/LTDUoJqOX6g?si=Ikre5wtEUuEIyKHL
 
+---
+
 ###
 
 <div align="center">
@@ -95,6 +97,8 @@ Video Demo: https://youtu.be/LTDUoJqOX6g?si=Ikre5wtEUuEIyKHL
 
 Software administrativo para el control de peticiones entre sucursales , permite la comunicación fluida bidireccional, entre casa matriz y sucursales , seguridad y validaciones basada en roles y permisos, garantizando la integridad de los datos, permite multiples peticiones en tiempo real, protección contra ataques como inyecciones SQL, almacenamiento en base de datos en la nube, y construcción mediante peticiones avanzadas, como administrador tienes funciones avanzadas de filtros por sucursales y edición de usuarios.<br><br>link: https://www.evolutionsystem.sbs</p>
 
+---
+
 ###
 
 <div align="center">
@@ -104,6 +108,8 @@ Software administrativo para el control de peticiones entre sucursales , permite
 ###
 <h3>Software de control de aves de corral</h3>
 <p align="left">Permite gestionar todo el ciclo de vida de las aves, por lotes, fechas de ingreso, pesos, estado de salud y notificaciones, garantiza la integridad de los datos y comunicación en tiempo real, además cuenta con un apartado de reportes, con posibilidad de descarga en diferentes formatos, periodos de fechas, y dashboards analiticos que facilitan la lectura y toma de decisiones.<br><br>link: https://avicon.nicapages.site</p>
+
+---
 
 ###
 
@@ -115,6 +121,8 @@ Software administrativo para el control de peticiones entre sucursales , permite
 
 <p align="left">Nuestra App Inclusiva de Lenguaje de Señas es una plataforma digital de vanguardia que transforma el aprendizaje y la comunicación. Más que una simple herramienta, es una solución integral diseñada para promover el acceso al lenguaje de señas, ofreciendo servicios de aprendizaje personalizados, herramientas de conversión de texto a audio y señas, y una interfaz intuitiva y atractiva. Con un enfoque en la inclusión y la experiencia del usuario, nuestra aplicación derriba barreras de comunicación, empoderando a personas y comunidades para que se conecten de manera más profunda y significativa.<br><br>Para hacer uso de la app debe tener instalada en su movil la app de EXPO que se encuentra en la Play Store y escanear el QR de la imagen</p>
 
+---
+
 ###
 
 <div align="center">
@@ -124,6 +132,8 @@ Software administrativo para el control de peticiones entre sucursales , permite
 ###
 
 <p align="left">Nuestra Plataforma de E-commerce Avanzada no es solo una tienda en línea; es una solución digital integral diseñada para impulsar tu negocio. Con una interfaz moderna y un diseño responsivo optimizado para cualquier dispositivo, la plataforma asegura una experiencia de usuario impecable. Desde un catálogo de productos intuitivo hasta un carrito de compras eficiente y una pasarela de pagos integrada, automatizamos cada paso del proceso de venta. Esto permite que los negocios se concentren en lo que realmente importa: crecer y conectar con sus clientes, mientras nosotros nos encargamos de la complejidad técnica, garantizando transacciones seguras y una gestión de pedidos sin fisuras.<br><br>link: https://variedadestaty.vercel.app/</p>
+
+---
 
 ###
 
@@ -135,10 +145,12 @@ Software administrativo para el control de peticiones entre sucursales , permite
 
 <p align="left">Nuestra App Administrativa para Control de Asistencia en Tiempo Real es una solución digital de vanguardia que revoluciona la gestión educativa. Va más allá del simple registro de asistencia, proporcionando una plataforma basada en roles que permite a directivos y maestros monitorear en tiempo real la presencia de estudiantes en cada clase y materia. Con un dashboard analítico integrado, la aplicación procesa esta información de manera inteligente, ofreciendo una visión profunda y procesable que facilita la toma de decisiones informadas para mejorar el rendimiento académico y la eficiencia administrativa. Es la herramienta definitiva para modernizar la gestión escolar y asegurar un control preciso y transparente.</p><br><br>Para hacer uso de la app debe tener instalada en su movil la app de EXPO que se encuentra en la Play Store y escanear el QR de la imagen</p>
 
+---
+
 ###
 
 <div align="center">
-  <img height="330" src="https://i.ibb.co/KxKjkjqW/portfolio.png"  />
+  <img height="500" src="https://i.ibb.co/KxKjkjqW/portfolio.png"  />
 </div>
 
 ###
