@@ -150,7 +150,7 @@ Software administrativo para el control de peticiones entre sucursales , permite
 ###
 
 <div align="center">
-  <img height="500" src="https://i.ibb.co/KxKjkjqW/portfolio.png"  />
+  <img height="330" src="https://i.ibb.co/hJpd2rmQ/oscar.png"  />
 </div>
 
 ###
